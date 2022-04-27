@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/formulacem/FCEM_BSPD?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/formulacem/FCEM_BSPD?style=for-the-badge)
 
-<img src="logo_team.png" alt="Team Logo">
+<img src="logo_team_0.png" alt="Team Logo">
 
 > Estamos focados em ajudar equipes a começarem no mundo do FSAE Elétrico! Verifique nossos outros repositórios para uma visão geral dos sistemas de segurança e qual foi nossa abordagem para solucionar os problemas ao longo dos anos.
 
@@ -35,7 +35,7 @@ Agradecemos aos seguintes contribuintes para que este projeto saísse do papel:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="logo_sponsor.png" width="200px;" alt="Sponsor"/><br>
+        <img src="logo_sponsor.png" width="400px;" alt="Sponsor"/><br>
         <sub>
           <b>JLC PCB</b>
       </a>
@@ -47,5 +47,7 @@ Agradecemos aos seguintes contribuintes para que este projeto saísse do papel:
 ## Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
+<img src="logo_team.png" alt="Team Logo">
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
